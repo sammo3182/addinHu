@@ -1,0 +1,5 @@
+
+Name: Insert %>%
+Description: insert a pipe sign
+Binding: insertPipe
+Interactive: false

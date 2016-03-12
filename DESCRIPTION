@@ -1,0 +1,10 @@
+Package: addinPoliSci
+Type: Package
+Title: addinPoliSci
+Version: 0.1.0.0
+Author: Yue Hu <yue-hu-1@uiowa.edu>
+Maintainer: Yue Hu <yue-hu-1@uiowa.edu>
+Description: Rstudio addins useful for quantitative analysis in Political Science
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
